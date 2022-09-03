@@ -43,10 +43,10 @@ The following have been used on this project:
 - HTML
 - CSS
 - JavaScript 
-- Angular
 - Heroku
 - python 
-- Miko 
+- Mako
+-Shell
 
 
 
