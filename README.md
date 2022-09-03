@@ -30,7 +30,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Mati](https://github.com/MatiMoringa/WeatherForecast/edit/master/README.md)).
 
 ## Running end-to-end tests
 
@@ -45,20 +45,13 @@ The following have been used on this project:
 - JavaScript 
 - Angular
 - Heroku
+- python 
+- Miko 
 
 
 
 #### Live link to view the project <a href="https://weatherappforcasting.herokuapp.com/">View 
 WeatherForecast</a>
-
-
-
-## Screenshots Of the Heroku
-
-- Homepage
-
-  <img src="./screenshots/Homepage.png" alt="screenshot" />
-
 
 ## Known Bugs
 
