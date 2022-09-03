@@ -1,13 +1,12 @@
-#WeatherForecast
-#### Created By Wilson Kinyua on 25-04-2022
+#WeatherForecast(https://weatherappforcasting.herokuapp.com/)
+#### Created By Lewis Mati on 30-08-2022
 
 ## Design Link
 
-[Figma](https://www.figma.com/file/UF3jKVnX4320r7r2V7P6pI/Jobs-Portal?node-id=56%3A133)
+[Heroku](https://weatherappforcasting.herokuapp.com/)
 
 ## Description
-
-Jobs Portal is a a website that provides a way to create, update, delete and retrieve jobs. It also provides a way to create and retrieve a user.
+Live wind, rain, radar or temperature maps, more than 50 weather layers, detailed forecast for your place, data from the best weather forecast portal.
 
 ## Setup Requirements
 
@@ -63,9 +62,9 @@ WeatherForecast</a>
 
 ## Known Bugs
 
-So far so good there are no bugs related to this project 😎
+So far so good there are no bugs related to this project
 
-## Support and contact details 🙂
+## Support and contact details
 
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
 
