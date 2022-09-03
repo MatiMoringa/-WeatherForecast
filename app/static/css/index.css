@@ -1,0 +1,405 @@
+/* h1 {
+    color: blueviolet;
+}  */
+.navigate a{
+    color: white;
+    
+}
+.navigation{
+    margin-top: 1rem;
+}
+.navigation a:hover{
+    background-color: transparent;
+    color: tomato;
+}
+.brenda li{
+   padding-left: 1rem;
+   list-style: none;
+   text-decoration: none;
+}
+
+.register {
+    background-image: url(../images/location.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 1;
+    height: 100vh;
+}
+
+.voldermort {
+    padding: 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    z-index: 3;
+    width: 75%;
+    margin-top: 8rem;
+}
+
+.kemikal {
+    background: transparent;
+}
+
+.login {
+    background-image: url(../images/sky2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.sativa {
+    margin-top: 15rem;
+
+    padding: 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    z-index: 3;
+    width: 75%;
+}  
+.profile{
+    background-image: url(../images/jacky.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.prof{
+    margin-top: 25rem;    
+    padding: 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.3);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    z-index: 3;
+    width: 40%;
+    margin-left: 4rem;
+}
+.prof2{
+    margin-top: 25rem;    
+    padding: 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.3);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    z-index: 3;
+    width: 40%;
+    margin-left: 8rem;
+}
+/*
+ .update{
+    background-image: url(../images/dusk.jpeg);
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.search form {
+    padding: 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    margin: 2rem 2rem;
+}
+
+.fore {
+    background: url(../images/empty.jpeg);
+    color: #fff;
+
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.search {
+    padding: 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    margin: 2rem;
+}
+
+.fore {
+    background: url(../images/empty.jpeg);
+    color: #fff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}*/
+/* .upd{
+     padding: 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.3);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    z-index: 3; 
+    /* width: 75%; 
+    margin-top: 15rem; 
+} */
+
+.update{
+    background-image: url(../images/star.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.date{
+    margin: 15rem 0rem 0rem 5rem; 
+    padding: 4rem 6rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    z-index: 3;
+    width: 40%;
+    margin-left: 8rem;
+} 
+.img-thumbnail{
+    margin-left: 8rem;
+    border-radius: 50%;
+    width: 60%;
+}
+.footer{
+    font-size: xx-large;
+    color: #ffff;
+    position: fixed;
+    top: 40;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-left: 2rem;
+    margin-bottom: 8rem;
+
+}
+.footer i{
+    border-radius: 50%;
+    padding: 1rem;
+    border: 3px solid rgba(255, 255, 255, 0.2);
+   
+}
+.footer i:hover{
+    color: darkgoldenrod;
+    cursor: pointer;
+}
+
+
+.lat {
+    padding: 3rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.search {
+    padding: 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+
+    margin: 5rem;
+}
+.good{
+    margin-top: 3rem;
+}
+.fore {
+    background: url(../images/empty.jpeg);
+    color: #fff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.lat {
+    padding: 3rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.hum {
+    padding: 3rem 2rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    margin: 2rem;
+    text-align: center;
+}
+
+.set {
+    color: rgb(240, 161, 14);
+    font-size: xx-large;
+}
+
+.rise {
+    color: yellow;
+    font-size: xx-large;
+}
+
+.water {
+    color: blue;
+    font-size: xx-large;
+}
+
+.high {
+    color: crimson;
+    font-size: xx-large;
+}
+
+.low {
+    color: rgb(247, 148, 168);
+    font-size: xx-large;
+}
+
+.day {
+    color: rgb(226, 241, 15);
+    font-size: xx-large;
+}
+
+.wind {
+    color: rgb(2, 36, 36);
+    font-size: xx-large;
+}
+
+.comp {
+    color: rgb(238, 142, 87);
+    font-size: xx-large;
+}
+
+.fog {
+    color: rgb(230, 223, 220);
+    font-size: xx-large;
+}
+
+.press {
+    color: rgb(119, 217, 247);
+    font-size: xx-large;
+}
+
+.hum p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.hum p i {
+    margin-right: 10px;
+}
+
+.hum p span {
+    font-weight: 700;
+}
+
+.space {
+    width: 100%;
+}
+.ivan{
+    margin-top: 6rem;
+}
+.joan{
+    margin-top: 2rem;
+}
+.in{    
+    text-decoration: none;
+    padding: 1rem 3.5rem;
+    margin: 2rem 0rem;
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 15px 35px rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+    color: crimson;
+    z-index: 1;
+    font-weight: 400;
+    font-size: 16px;
+    overflow: hidden;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    backdrop-filter: blur(18px);
+}
+.in:hover{
+    letter-spacing: 5px;
+}
+.submit .btns a{
+    /* position: absolute;
+    top: 0;
+    left: 0; */
+    text-decoration: none;
+    padding: 1rem 3.5rem;
+    margin: 2rem 0rem;
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 15px 35px rgba(255, 255, 255, 0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+    color: green;
+    z-index: 1;
+    font-weight: 400;
+    font-size: 16px;
+    overflow: hidden;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    backdrop-filter: blur(18px);
+}
+.submit .btns a:hover{
+    letter-spacing: 3px;
+    /* background: linear-gradient(90deg, rgba(2,0,36,0.4) 0%, rgba(233,30,99,0.6) 35%, rgba(0,212,255,0.8) 100%);     */
+}
+.submit .btns a::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0.1),
+    transparent);
+    transform: skewX(45deg) translateX(0);
+    transition: 0.5s;
+}
+.submit .btns:hover a::before{
+    transform: skewX(45deg) translateX(200%);
+}
+.head{
+    font-size: 50px;
+    font-family: 'Shippori Antique', sans-serif;
+    margin-bottom: 10rem;
+}
+.integrity{
+    margin-top: 10rem;
+    position: relative;
+    
+    
+}
